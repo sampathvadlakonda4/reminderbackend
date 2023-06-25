@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1",
+    "nodemon": "^2.0.22",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
+    "vue": "^3.3.4"
+  },
+  "name": "reminder_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
